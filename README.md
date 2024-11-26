@@ -1,2 +1,2 @@
 # BashUtils
-Useful bash scripts
+Useful windows batch scripts (.bat)
