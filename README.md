@@ -1,4 +1,4 @@
-# BashUtils
+# BatshUtils
 
 Useful Windows Batch Scripts (.bat)
 
