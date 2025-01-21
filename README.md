@@ -1,8 +1,8 @@
 # BashUtils
-Useful windows batch scripts (.bat)
 
-# BatchUtils
-Useful windows batch scripts (.bat) that I use and made myself
+Useful Windows Batch Scripts (.bat)
+
+Also consider looking at these Powershell scripts: https://github.com/avipars/PowershellUtils
 
 ## Disclaimer
 
@@ -15,4 +15,3 @@ By using the provided scripts, you agree to take full responsibility for verifyi
 
 If you are not familiar with the implications of running a script, consult a professional before proceeding.
 
-Also consider looking at these Powershell scripts: https://github.com/avipars/PowershellUtils
