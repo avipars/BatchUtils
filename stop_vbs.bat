@@ -1,0 +1,1 @@
+taskkill /F /IM wscript.exe /T
