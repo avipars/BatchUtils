@@ -5,9 +5,7 @@ Useful Windows Batch Scripts (.bat)
 
 Also consider looking at these Powershell scripts: https://github.com/avipars/PowershellUtils
 
-
-
-Scripts in the admin folder need to be run with elevated privileges
+Scripts in the ```admin``` folder need to be run with elevated privileges
  
 ## Disclaimer
 
